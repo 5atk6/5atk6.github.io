@@ -13,3 +13,15 @@ a:hover{
   color: f9f9f9;
   transition: 1s;
 }
+
+img.image-size{
+  width: 120px;
+  height: 210px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+
+body{
+  background-image: url("../image/book-bgi.jpeg");
+  background-size: cover;
+}
